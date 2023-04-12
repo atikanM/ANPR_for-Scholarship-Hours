@@ -1,0 +1,20 @@
+Source used:
+1) https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
+
+2) https://www.youtube.com/watch?v=NApYP_5wlKY&t=336s&ab_channel=NicholasRenotte
+
+3) https://stackoverflow.com/questions/50854235/how-to-draw-chinese-text-on-the-image-using-cv2-puttextcorrectly-pythonopen
+
+
+
+
+
+
+
+EXTRA:
+
+https://github.com/supotmaild/thaiopencv
+
+https://stackoverflow.com/questions/37191008/load-truetype-font-to-opencv
+
+https://stackoverflow.com/questions/47726854/error-module-object-has-no-attribute-freetype

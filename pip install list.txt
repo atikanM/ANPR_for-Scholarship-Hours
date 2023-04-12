@@ -1,0 +1,18 @@
+pip install easyocr
+
+pip install imutils
+
+pip install matplotlib
+
+pip install opencv-python
+
+pip install thefuzz
+
+pip install python-Levenshtein-wheels
+
+pip install Pillow
+
+pip install numpy
+
+
+EXTRA : https://pytorch.org/get-started/locally/
